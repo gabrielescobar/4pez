@@ -1,0 +1,273 @@
+[23-Mar-2015 08:49:23 America/Chicago] PHP Fatal error:  Class 'Sessionb' not found in /home/portalte/public_html/4pez-auto/views/Index/index.php on line 15
+[24-Mar-2015 09:42:55 America/Chicago] PHP Fatal error:  Call to undefined method User_model::loginUsuario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 15
+[24-Mar-2015 09:48:45 America/Chicago] PHP Fatal error:  Call to undefined method User::enviarMailConfirmacion() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 40
+[24-Mar-2015 09:56:27 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/portalte/public_html/4pez-auto/controllers/User.php on line 41
+[24-Mar-2015 09:57:03 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/portalte/public_html/4pez-auto/controllers/User.php on line 41
+[24-Mar-2015 09:57:19 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/portalte/public_html/4pez-auto/controllers/User.php on line 41
+[24-Mar-2015 09:57:59 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/portalte/public_html/4pez-auto/controllers/User.php on line 41
+[24-Mar-2015 10:15:10 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/portalte/public_html/4pez-auto/controllers/User.php on line 41
+[24-Mar-2015 10:16:51 America/Chicago] PHP Fatal error:  Call to undefined function var_dumb() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 41
+[24-Mar-2015 14:53:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 82
+[24-Mar-2015 14:53:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 82
+[24-Mar-2015 15:10:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 82
+[24-Mar-2015 15:11:23 America/Chicago] PHP Fatal error:  Call to undefined method User_model::loginUsuario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 62
+[25-Mar-2015 09:05:29 America/Chicago] PHP Fatal error:  Call to undefined method User::index() in /home/portalte/public_html/4pez-auto/index.php on line 36
+[25-Mar-2015 16:19:57 America/Chicago] PHP Warning:  require(./views/Index/profile.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/portalte/public_html/4pez-auto/libs/View.php on line 8
+[25-Mar-2015 16:19:57 America/Chicago] PHP Warning:  require(./views/Index/profile.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/portalte/public_html/4pez-auto/libs/View.php on line 8
+[25-Mar-2015 16:19:57 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './views/Index/profile.php' (include_path='/usr/local/php4/lib/php:.:/usr/lib/php:/usr/local/lib/php') in /home/portalte/public_html/4pez-auto/libs/View.php on line 8
+[25-Mar-2015 16:21:56 America/Chicago] PHP Warning:  require(./views/Index/profile.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/portalte/public_html/4pez-auto/libs/View.php on line 8
+[25-Mar-2015 16:21:56 America/Chicago] PHP Warning:  require(./views/Index/profile.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/portalte/public_html/4pez-auto/libs/View.php on line 8
+[25-Mar-2015 16:21:56 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './views/Index/profile.php' (include_path='/usr/local/php4/lib/php:.:/usr/lib/php:/usr/local/lib/php') in /home/portalte/public_html/4pez-auto/libs/View.php on line 8
+[25-Mar-2015 16:22:09 America/Chicago] PHP Warning:  require(./views/Index/profile.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/portalte/public_html/4pez-auto/libs/View.php on line 8
+[25-Mar-2015 16:22:09 America/Chicago] PHP Warning:  require(./views/Index/profile.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/portalte/public_html/4pez-auto/libs/View.php on line 8
+[25-Mar-2015 16:22:09 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './views/Index/profile.php' (include_path='/usr/local/php4/lib/php:.:/usr/lib/php:/usr/local/lib/php') in /home/portalte/public_html/4pez-auto/libs/View.php on line 8
+[26-Mar-2015 15:50:32 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 13
+[26-Mar-2015 15:50:33 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 13
+[26-Mar-2015 15:51:03 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 13
+[26-Mar-2015 15:51:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 13
+[26-Mar-2015 15:51:07 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 13
+[26-Mar-2015 15:51:09 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 13
+[26-Mar-2015 15:51:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 13
+[26-Mar-2015 15:53:46 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 13
+[26-Mar-2015 15:53:47 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 13
+[26-Mar-2015 15:53:48 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 13
+[26-Mar-2015 15:53:49 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 13
+[02-Apr-2015 16:45:41 America/Chicago] PHP Warning:  Missing argument 1 for User_model::actualizarUsuario(), called in /home/portalte/public_html/4pez-auto/controllers/User.php on line 30 and defined in /home/portalte/public_html/4pez-auto/models/User_model.php on line 18
+[02-Apr-2015 16:45:41 America/Chicago] PHP Warning:  Missing argument 2 for User_model::actualizarUsuario(), called in /home/portalte/public_html/4pez-auto/controllers/User.php on line 30 and defined in /home/portalte/public_html/4pez-auto/models/User_model.php on line 18
+[02-Apr-2015 16:45:41 America/Chicago] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/portalte/public_html/4pez-auto/libs/Database.php on line 36
+[02-Apr-2015 16:45:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/portalte/public_html/4pez-auto/libs/Database.php on line 39
+[02-Apr-2015 16:45:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/portalte/public_html/4pez-auto/libs/Database.php on line 49
+[06-Apr-2015 08:52:46 America/Chicago] PHP Warning:  Missing argument 1 for User_model::actualizarUsuario(), called in /home/portalte/public_html/4pez-auto/controllers/User.php on line 30 and defined in /home/portalte/public_html/4pez-auto/models/User_model.php on line 18
+[06-Apr-2015 08:52:46 America/Chicago] PHP Warning:  Missing argument 2 for User_model::actualizarUsuario(), called in /home/portalte/public_html/4pez-auto/controllers/User.php on line 30 and defined in /home/portalte/public_html/4pez-auto/models/User_model.php on line 18
+[06-Apr-2015 08:52:46 America/Chicago] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/portalte/public_html/4pez-auto/libs/Database.php on line 36
+[06-Apr-2015 08:52:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/portalte/public_html/4pez-auto/libs/Database.php on line 39
+[06-Apr-2015 08:52:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/portalte/public_html/4pez-auto/libs/Database.php on line 49
+[06-Apr-2015 08:54:50 America/Chicago] PHP Warning:  Missing argument 1 for User_model::actualizarUsuario(), called in /home/portalte/public_html/4pez-auto/controllers/User.php on line 30 and defined in /home/portalte/public_html/4pez-auto/models/User_model.php on line 18
+[06-Apr-2015 08:54:50 America/Chicago] PHP Warning:  Missing argument 2 for User_model::actualizarUsuario(), called in /home/portalte/public_html/4pez-auto/controllers/User.php on line 30 and defined in /home/portalte/public_html/4pez-auto/models/User_model.php on line 18
+[06-Apr-2015 08:56:07 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/portalte/public_html/4pez-auto/controllers/User.php on line 30
+[06-Apr-2015 08:56:07 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/portalte/public_html/4pez-auto/controllers/User.php on line 30
+[06-Apr-2015 08:56:08 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/portalte/public_html/4pez-auto/controllers/User.php on line 30
+[06-Apr-2015 09:10:54 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/portalte/public_html/4pez-auto/index.php on line 25
+[06-Apr-2015 09:10:54 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/portalte/public_html/4pez-auto/controllers/User.php on line 71
+[06-Apr-2015 09:47:41 America/Chicago] PHP Fatal error:  Class 'User_model' not found in /home/portalte/public_html/4pez-auto/libs/Controller.php on line 16
+[06-Apr-2015 09:48:06 America/Chicago] PHP Fatal error:  Class 'User_model' not found in /home/portalte/public_html/4pez-auto/libs/Controller.php on line 16
+[06-Apr-2015 09:55:46 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/portalte/public_html/4pez-auto/controllers/User.php on line 32
+[06-Apr-2015 09:56:45 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/portalte/public_html/4pez-auto/controllers/User.php on line 32
+[06-Apr-2015 14:21:52 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 53
+[06-Apr-2015 14:42:03 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 14:42:03 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 14:42:04 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 14:46:37 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 14:46:37 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 14:46:38 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 14:46:39 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 14:46:40 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 14:49:43 America/Chicago] PHP Fatal error:  Class 'Empresa' not found in /home/portalte/public_html/4pez-auto/controllers/User.php on line 14
+[06-Apr-2015 14:49:43 America/Chicago] PHP Fatal error:  Class 'Empresa' not found in /home/portalte/public_html/4pez-auto/controllers/User.php on line 14
+[06-Apr-2015 14:49:44 America/Chicago] PHP Fatal error:  Class 'Empresa' not found in /home/portalte/public_html/4pez-auto/controllers/User.php on line 14
+[06-Apr-2015 14:50:26 America/Chicago] PHP Fatal error:  Class 'Empresa' not found in /home/portalte/public_html/4pez-auto/controllers/User.php on line 14
+[06-Apr-2015 14:50:27 America/Chicago] PHP Fatal error:  Class 'Empresa' not found in /home/portalte/public_html/4pez-auto/controllers/User.php on line 14
+[06-Apr-2015 14:50:28 America/Chicago] PHP Fatal error:  Class 'Empresa' not found in /home/portalte/public_html/4pez-auto/controllers/User.php on line 14
+[06-Apr-2015 15:35:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 15:35:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 15:35:02 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 15:35:11 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 15:35:12 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 15:35:12 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 15:35:13 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 35
+[06-Apr-2015 16:32:47 America/Chicago] PHP Warning:  Unterminated comment starting line 70 in /home/portalte/public_html/4pez-auto/controllers/User.php on line 70
+[06-Apr-2015 16:32:47 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/portalte/public_html/4pez-auto/controllers/User.php on line 70
+[06-Apr-2015 16:32:47 America/Chicago] PHP Warning:  Unterminated comment starting line 70 in /home/portalte/public_html/4pez-auto/controllers/User.php on line 70
+[06-Apr-2015 16:32:47 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/portalte/public_html/4pez-auto/controllers/User.php on line 70
+[08-Apr-2015 09:13:58 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 15
+[08-Apr-2015 09:14:01 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 15
+[08-Apr-2015 09:14:23 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 15
+[08-Apr-2015 09:14:23 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 15
+[08-Apr-2015 09:14:24 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 15
+[08-Apr-2015 09:14:43 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 15
+[08-Apr-2015 09:14:44 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 15
+[08-Apr-2015 09:14:53 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 15
+[08-Apr-2015 09:14:54 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/portalte/public_html/4pez-auto/index.php on line 25
+[08-Apr-2015 11:11:27 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/portalte/public_html/4pez-auto/controllers/User.php on line 231
+[08-Apr-2015 11:11:27 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/portalte/public_html/4pez-auto/controllers/User.php on line 231
+[08-Apr-2015 11:11:28 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/portalte/public_html/4pez-auto/controllers/User.php on line 231
+[08-Apr-2015 11:11:36 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/portalte/public_html/4pez-auto/controllers/User.php on line 231
+[08-Apr-2015 11:11:36 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/portalte/public_html/4pez-auto/controllers/User.php on line 231
+[08-Apr-2015 11:11:36 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/portalte/public_html/4pez-auto/controllers/User.php on line 231
+[08-Apr-2015 11:11:37 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/portalte/public_html/4pez-auto/controllers/User.php on line 231
+[08-Apr-2015 11:11:52 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/portalte/public_html/4pez-auto/controllers/User.php on line 78
+[08-Apr-2015 12:44:24 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 47
+[08-Apr-2015 12:44:25 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 47
+[08-Apr-2015 13:29:33 America/Chicago] PHP Fatal error:  Class 'User_model' not found in /home/portalte/public_html/4pez-auto/libs/Controller.php on line 16
+[08-Apr-2015 13:38:08 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 51
+[08-Apr-2015 15:07:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/portalte/public_html/4pez-auto/index.php:12) in /home/portalte/public_html/4pez-auto/controllers/User.php on line 23
+[08-Apr-2015 15:07:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/portalte/public_html/4pez-auto/index.php:12) in /home/portalte/public_html/4pez-auto/controllers/User.php on line 23
+[08-Apr-2015 16:38:09 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 11
+[08-Apr-2015 16:38:10 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 11
+[08-Apr-2015 16:38:25 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 11
+[08-Apr-2015 16:38:25 America/Chicago] PHP Fatal error:  Class 'Formulario' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[09-Apr-2015 13:45:17 America/Chicago] PHP Fatal error:  Call to undefined function dar_dump() in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 18
+[09-Apr-2015 13:53:35 America/Chicago] PHP Fatal error:  Class 'Formulario' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[09-Apr-2015 13:53:35 America/Chicago] PHP Fatal error:  Class 'Formulario' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[09-Apr-2015 13:54:30 America/Chicago] PHP Fatal error:  Class 'Formulario' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[09-Apr-2015 13:54:30 America/Chicago] PHP Fatal error:  Class 'Formulario' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[09-Apr-2015 14:04:06 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 18
+[09-Apr-2015 14:04:06 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 18
+[09-Apr-2015 14:04:07 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 18
+[09-Apr-2015 14:04:08 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 18
+[09-Apr-2015 14:04:24 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 18
+[09-Apr-2015 14:04:24 America/Chicago] PHP Fatal error:  Class 'Formulario' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[09-Apr-2015 14:04:24 America/Chicago] PHP Fatal error:  Class 'Formulario' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[09-Apr-2015 16:05:49 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 53
+[10-Apr-2015 08:13:20 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 53
+[10-Apr-2015 08:19:43 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 53
+[10-Apr-2015 09:29:52 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 53
+[16-Apr-2015 10:36:03 America/Chicago] PHP Fatal error:  Call to undefined method User::index() in /home/portalte/public_html/4pez-auto/index.php on line 43
+[17-Apr-2015 14:39:26 America/Chicago] PHP Fatal error:  Cannot redeclare User::actualizarContenido() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 74
+[17-Apr-2015 14:39:27 America/Chicago] PHP Fatal error:  Cannot redeclare User::actualizarContenido() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 74
+[17-Apr-2015 14:41:13 America/Chicago] PHP Fatal error:  Call to undefined method User_model::actualizarImagen() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 67
+[20-Apr-2015 15:03:19 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/portalte/public_html/4pez-auto/views/User/profile.php on line 55
+[21-Apr-2015 11:11:30 America/Chicago] PHP Fatal error:  Class 'Contenido' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[21-Apr-2015 11:12:15 America/Chicago] PHP Fatal error:  Class 'Contenido' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[21-Apr-2015 11:12:32 America/Chicago] PHP Fatal error:  Class 'Contenido' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[21-Apr-2015 13:26:53 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:26:53 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:26:54 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:26:55 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:27:08 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:27:08 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:27:09 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:27:36 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:27:37 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:27:37 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:27:49 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:27:49 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:27:50 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:27:52 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/portalte/public_html/4pez-auto/controllers/User.php on line 16
+[21-Apr-2015 13:49:50 America/Chicago] PHP Fatal error:  Call to undefined method User::index() in /home/portalte/public_html/4pez-auto/index.php on line 43
+[21-Apr-2015 14:24:28 America/Chicago] PHP Fatal error:  Call to undefined method User_model::loginUsuario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 116
+[21-Apr-2015 14:24:37 America/Chicago] PHP Fatal error:  Call to undefined method User_model::loginUsuario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 116
+[21-Apr-2015 14:25:04 America/Chicago] PHP Fatal error:  Call to undefined method User_model::loginUsuario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 116
+[21-Apr-2015 14:37:56 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 55
+[21-Apr-2015 14:37:56 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 55
+[21-Apr-2015 14:37:56 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 55
+[21-Apr-2015 14:38:10 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 55
+[21-Apr-2015 14:38:10 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[21-Apr-2015 14:38:10 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE in /home/portalte/public_html/4pez-auto/controllers/User.php on line 80
+[21-Apr-2015 16:46:17 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[21-Apr-2015 16:47:02 America/Chicago] PHP Fatal error:  Call to undefined method User_model::contenidoFormulario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 31
+[21-Apr-2015 16:47:03 America/Chicago] PHP Fatal error:  Call to undefined method User_model::contenidoFormulario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 31
+[21-Apr-2015 16:47:03 America/Chicago] PHP Fatal error:  Call to undefined method User_model::contenidoFormulario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 31
+[21-Apr-2015 16:47:04 America/Chicago] PHP Fatal error:  Call to undefined method User_model::contenidoFormulario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 31
+[21-Apr-2015 16:47:31 America/Chicago] PHP Fatal error:  Call to undefined method User_model::contenidoFormulario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 31
+[21-Apr-2015 16:47:32 America/Chicago] PHP Fatal error:  Call to undefined method User_model::contenidoFormulario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 31
+[21-Apr-2015 16:47:32 America/Chicago] PHP Fatal error:  Call to undefined method User_model::contenidoFormulario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 31
+[21-Apr-2015 16:47:33 America/Chicago] PHP Fatal error:  Call to undefined method User_model::contenidoFormulario() in /home/portalte/public_html/4pez-auto/controllers/User.php on line 31
+[22-Apr-2015 14:25:02 America/Chicago] PHP Fatal error:  Class 'Intranet' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[22-Apr-2015 14:37:27 America/Chicago] PHP Warning:  require(./views/Intranet/index.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/portalte/public_html/4pez-auto/libs/View.php on line 8
+[22-Apr-2015 14:37:27 America/Chicago] PHP Warning:  require(./views/Intranet/index.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/portalte/public_html/4pez-auto/libs/View.php on line 8
+[22-Apr-2015 14:37:27 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './views/Intranet/index.php' (include_path='/usr/local/php4/lib/php:.:/usr/lib/php:/usr/local/lib/php') in /home/portalte/public_html/4pez-auto/libs/View.php on line 8
+[22-Apr-2015 15:42:27 America/Chicago] PHP Fatal error:  Call to undefined method Intranet_model::getUsuarios() in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 20
+[22-Apr-2015 15:42:27 America/Chicago] PHP Fatal error:  Call to undefined method Intranet_model::getUsuarios() in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 20
+[22-Apr-2015 15:42:28 America/Chicago] PHP Fatal error:  Call to undefined method Intranet_model::getUsuarios() in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 20
+[22-Apr-2015 15:43:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/portalte/public_html/4pez-auto/libs/Database.php on line 13
+[22-Apr-2015 15:43:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/portalte/public_html/4pez-auto/libs/Database.php on line 13
+[22-Apr-2015 15:43:38 America/Chicago] PHP Fatal error:  Class 'Intranet_model' not found in /home/portalte/public_html/4pez-auto/libs/Controller.php on line 16
+[22-Apr-2015 15:43:39 America/Chicago] PHP Fatal error:  Class 'Intranet_model' not found in /home/portalte/public_html/4pez-auto/libs/Controller.php on line 16
+[22-Apr-2015 15:43:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/portalte/public_html/4pez-auto/libs/Database.php on line 13
+[22-Apr-2015 15:43:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/portalte/public_html/4pez-auto/libs/Database.php on line 13
+[22-Apr-2015 15:44:08 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ';' or '{' in /home/portalte/public_html/4pez-auto/models/Intranet_model.php on line 11
+[22-Apr-2015 15:44:08 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ';' or '{' in /home/portalte/public_html/4pez-auto/models/Intranet_model.php on line 11
+[22-Apr-2015 15:44:09 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ';' or '{' in /home/portalte/public_html/4pez-auto/models/Intranet_model.php on line 11
+[22-Apr-2015 15:44:10 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ';' or '{' in /home/portalte/public_html/4pez-auto/models/Intranet_model.php on line 11
+[22-Apr-2015 15:44:33 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ';' or '{' in /home/portalte/public_html/4pez-auto/models/Intranet_model.php on line 11
+[22-Apr-2015 15:44:33 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ';' or '{' in /home/portalte/public_html/4pez-auto/models/Intranet_model.php on line 11
+[22-Apr-2015 15:44:36 America/Chicago] PHP Warning:  Missing argument 1 for Intranet_model::getUsuarios(), called in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 20 and defined in /home/portalte/public_html/4pez-auto/models/Intranet_model.php on line 11
+[22-Apr-2015 15:44:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/portalte/public_html/4pez-auto/libs/Database.php on line 13
+[22-Apr-2015 15:44:54 America/Chicago] PHP Warning:  Missing argument 1 for Intranet_model::getUsuarios(), called in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 20 and defined in /home/portalte/public_html/4pez-auto/models/Intranet_model.php on line 11
+[22-Apr-2015 15:44:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/portalte/public_html/4pez-auto/libs/Database.php on line 13
+[22-Apr-2015 15:44:55 America/Chicago] PHP Warning:  Missing argument 1 for Intranet_model::getUsuarios(), called in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 20 and defined in /home/portalte/public_html/4pez-auto/models/Intranet_model.php on line 11
+[22-Apr-2015 15:44:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/portalte/public_html/4pez-auto/libs/Database.php on line 13
+[22-Apr-2015 15:45:23 America/Chicago] PHP Fatal error:  Class 'Intranet_model' not found in /home/portalte/public_html/4pez-auto/libs/Controller.php on line 16
+[22-Apr-2015 15:45:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/portalte/public_html/4pez-auto/libs/Database.php on line 13
+[23-Apr-2015 08:48:41 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 90
+[23-Apr-2015 09:20:09 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 95
+[23-Apr-2015 09:20:21 America/Chicago] PHP Fatal error:  Class 'Intranet' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[23-Apr-2015 09:22:44 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 12
+[23-Apr-2015 09:22:45 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 12
+[23-Apr-2015 09:22:46 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 12
+[23-Apr-2015 09:23:03 America/Chicago] PHP Fatal error:  Class 'Intranet' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[23-Apr-2015 09:23:04 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 12
+[23-Apr-2015 09:23:05 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 12
+[23-Apr-2015 10:14:38 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:14:38 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:14:39 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:14:40 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:15:02 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:15:02 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:15:04 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:15:16 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:15:17 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:26:58 America/Chicago] PHP Fatal error:  Class 'Formulario' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[23-Apr-2015 10:26:58 America/Chicago] PHP Fatal error:  Class 'Formulario' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[23-Apr-2015 10:27:24 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:27:24 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:27:25 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:27:25 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/portalte/public_html/4pez-auto/controllers/Formulario.php on line 20
+[23-Apr-2015 10:29:57 America/Chicago] PHP Fatal error:  Class 'Formulario' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[23-Apr-2015 13:45:32 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/Intranet/detalle.php on line 72
+[23-Apr-2015 13:46:13 America/Chicago] PHP Fatal error:  Call to undefined method Intranet_model::actualizarContenido() in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 52
+[23-Apr-2015 13:46:35 America/Chicago] PHP Fatal error:  Call to undefined method Intranet_model::actualizarContenido() in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 52
+[23-Apr-2015 13:46:53 America/Chicago] PHP Fatal error:  Call to undefined method Intranet_model::actualizarContenido() in /home/portalte/public_html/4pez-auto/controllers/Intranet.php on line 52
+[23-Apr-2015 14:00:10 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO in /home/portalte/public_html/4pez-auto/views/Intranet/detalle.php on line 85
+[23-Apr-2015 14:00:10 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO in /home/portalte/public_html/4pez-auto/views/Intranet/detalle.php on line 85
+[23-Apr-2015 14:00:55 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO in /home/portalte/public_html/4pez-auto/views/Intranet/detalle.php on line 85
+[23-Apr-2015 14:02:58 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/portalte/public_html/4pez-auto/views/Intranet/detalle.php on line 72
+[23-Apr-2015 16:03:57 America/Chicago] PHP Warning:  Missing argument 1 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 39 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:04:54 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:04:54 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:04:55 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:04:56 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:05:09 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:05:09 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:05:10 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:05:11 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:05:12 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:05:20 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[23-Apr-2015 16:05:45 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:05:55 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:06:03 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[23-Apr-2015 16:06:03 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[23-Apr-2015 16:06:04 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[23-Apr-2015 16:06:08 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:09:11 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:09:12 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:09:27 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:09:58 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:11:05 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:11:10 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:11:27 America/Chicago] PHP Warning:  Missing argument 2 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 37 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[23-Apr-2015 16:24:39 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 48
+[23-Apr-2015 16:24:40 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 48
+[23-Apr-2015 16:24:55 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 48
+[23-Apr-2015 16:24:55 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 48
+[23-Apr-2015 16:25:00 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/portalte/public_html/4pez-auto/controllers/User.php on line 48
+[23-Apr-2015 16:27:04 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[23-Apr-2015 16:27:05 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[23-Apr-2015 16:27:55 America/Chicago] PHP Warning:  var_dump() expects at least 1 parameter, 0 given in /home/portalte/public_html/4pez-auto/controllers/User.php on line 49
+[23-Apr-2015 16:27:55 America/Chicago] PHP Warning:  var_dump() expects at least 1 parameter, 0 given in /home/portalte/public_html/4pez-auto/controllers/User.php on line 49
+[23-Apr-2015 16:27:56 America/Chicago] PHP Warning:  var_dump() expects at least 1 parameter, 0 given in /home/portalte/public_html/4pez-auto/controllers/User.php on line 49
+[23-Apr-2015 16:27:58 America/Chicago] PHP Warning:  var_dump() expects at least 1 parameter, 0 given in /home/portalte/public_html/4pez-auto/controllers/User.php on line 49
+[23-Apr-2015 16:28:11 America/Chicago] PHP Warning:  var_dump() expects at least 1 parameter, 0 given in /home/portalte/public_html/4pez-auto/controllers/User.php on line 49
+[23-Apr-2015 16:28:11 America/Chicago] PHP Warning:  var_dump() expects at least 1 parameter, 0 given in /home/portalte/public_html/4pez-auto/controllers/User.php on line 49
+[24-Apr-2015 10:21:00 America/Chicago] PHP Fatal error:  Cannot redeclare Intranet_model::getFormulario() in /home/portalte/public_html/4pez-auto/models/Intranet_model.php on line 51
+[24-Apr-2015 10:21:01 America/Chicago] PHP Fatal error:  Cannot redeclare Intranet_model::getFormulario() in /home/portalte/public_html/4pez-auto/models/Intranet_model.php on line 51
+[24-Apr-2015 10:21:02 America/Chicago] PHP Fatal error:  Cannot redeclare Intranet_model::getFormulario() in /home/portalte/public_html/4pez-auto/models/Intranet_model.php on line 51
+[24-Apr-2015 16:12:41 America/Chicago] PHP Warning:  Missing argument 1 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 39 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[24-Apr-2015 16:14:35 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/portalte/public_html/4pez-auto/index.php on line 32
+[24-Apr-2015 16:15:48 America/Chicago] PHP Warning:  Missing argument 1 for User::activarCuenta(), called in /home/portalte/public_html/4pez-auto/index.php on line 39 and defined in /home/portalte/public_html/4pez-auto/controllers/User.php on line 42
+[29-Apr-2015 08:31:47 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/portalte/public_html/4pez-auto/views/Formulario/contenido.php on line 17
+[29-Apr-2015 08:31:48 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/portalte/public_html/4pez-auto/views/Formulario/contenido.php on line 17
+[29-Apr-2015 08:31:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/portalte/public_html/4pez-auto/views/Formulario/contenido.php on line 17
+[29-Apr-2015 08:57:48 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/portalte/public_html/4pez-auto/controllers/User.php on line 84
+[29-Apr-2015 08:57:48 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/portalte/public_html/4pez-auto/controllers/User.php on line 240

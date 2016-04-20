@@ -1,0 +1,94 @@
+body{
+	background: url("tema1/bg_verde.png");
+	font-family: 'Roboto Condensed', sans-serif;
+	margin: 0;
+}
+
+div,p,h1,h2,h3,a,label,select,input,textarea{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+label{
+	color: #ed0e69;
+    display: block;
+    float: left;
+    font-size: 0.8em;
+    padding: 18px 12px;
+    width: 100%;
+}
+
+.contenido{
+	margin-top: 35px;
+	background: url("tema1/pxl_azul.png");
+	
+	float: right;
+    width: 49%;
+}
+
+
+
+.encabezado {
+    background-color: white;
+    font-size: 20px;
+    width: 100%;
+}
+
+h1 {
+    color: #54fbd7;
+    font-size: 1.6em;
+    font-weight: 700;
+    margin: 0 0 1em;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+p{
+	color:white;
+	font-weight: 300;
+}
+
+
+::-webkit-input-placeholder {
+   color: #25657d;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #25657d;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #25657d;
+}
+
+:-ms-input-placeholder {  
+   color: #25657d;
+}
+
+input, select, textarea {
+    background-color: #54fbd7;
+    border: medium none;
+    color: #25657d;
+    display: block;
+    float: left;
+    padding: 16px 12px;
+}
+
+
+input[type="submit"] {
+    background-color: white;
+    border: medium none;
+    color: #25657d;
+    font-size: 0.7em;
+    margin: 2em 0;
+    padding: 10px 53px;
+    text-transform: uppercase;
+    width: auto;
+}
+
+

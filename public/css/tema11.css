@@ -1,0 +1,91 @@
+body{
+	background: url("tema11/fondot11.png");
+	font-family: 'Roboto Condensed', sans-serif;
+	margin: 0;
+}
+
+div,p,h1,h2,h3,a,label,select,input,textarea{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+label{
+	color: #ed0e69;
+    display: block;
+    float: left;
+    font-size: 0.8em;
+    padding: 18px 12px;
+    width: 100%;
+}
+
+.contenido{
+	margin-top: 35px;
+	/* background: url("tema3/pixelt3.png"); */
+	background-color:#5775b2  ;
+	float: right;
+    width: 49%;
+}
+
+
+
+.encabezado {
+    background-color: white;
+    font-size: 20px;
+    width: 100%;
+}
+
+h1 {
+    color: white;
+    font-size: 2.5em;
+    font-weight: 300;
+    margin: 0 0 1em;
+    /* text-transform: uppercase; */
+}
+
+h2 {
+    color: white;
+    font-size: 1.7em;
+    font-weight: normal;
+    margin: 10px 0;
+}
+
+p{
+	color:white;
+	font-weight: 300;
+}
+::-webkit-input-placeholder {
+   color: #5775b2;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #5775b2;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #5775b2;
+}
+
+:-ms-input-placeholder {  
+   color: #5775b2;
+}
+input, select, textarea {
+    background-color: white;
+    border: medium none;
+    color: #5775b2;
+    display: block;
+    float: left;
+    padding: 16px 12px;
+}
+
+
+input[type="submit"] {
+    background-color: #db5e5e;
+    border: medium none;
+    color: white;
+    font-size: 0.7em;
+    margin: 2em 0;
+    padding: 10px 53px;
+    text-transform: uppercase;
+    width: auto;
+}
+
+

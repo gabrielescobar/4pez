@@ -1,0 +1,12 @@
+.logo_centro{
+	display: block;
+    margin: 0 auto;
+    position: relative;
+}
+
+.logo_derecha,.form_derecha,.info_derecha{
+	float: right;
+}
+.logo_izquierda,.form_izquierda,.info_izquierda{
+	float: left;
+}
