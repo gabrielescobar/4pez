@@ -1,7 +1,7 @@
 <?php
 
 	/*define --> constante con nombre*/
-	define('URL', 'http://portaltec.cl/4pez-auto/');
+	define('URL', 'http://localhost/4pez/');
 	define('LIBS', 'libs/');
 
 	define('DB_TYPE', 'mysql');
