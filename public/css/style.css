@@ -4,8 +4,12 @@ body{
 	font-family: 'Roboto Condensed', sans-serif;
 	margin: 0;
 }
+.register-align{
+	margin-top: 18px !important;
+	color: white !important;
+}
 .form-control {
-	width: 300px !important;
+	width: 100%;
 }
 .container-fluid {
 	width: 100%;
@@ -32,6 +36,7 @@ body{
 	width: 49%;
 }
 #login-dp .form-group {
+	width: 100%;
 	margin-bottom: 10px;
 }
 .btn-fb{
@@ -1019,13 +1024,23 @@ section input {
 		/* background: blue; */
 	}
 }
+@media all  and (max-width: 780px) {
+	.row{
+		width: 100%;
+	}
 
+	.navbar-collapse{
+		width: 100%;
+		text-align: center;
+	}
+}
 @media all and (min-width: 480px) and (max-width: 780px){
 	.encabezado{
 		/* background: green; */
 	}
-	
-	
+
+
+
 	#bienvenida {
 		margin-right: 1em;
 		text-align: center;

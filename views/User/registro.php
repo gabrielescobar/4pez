@@ -2,7 +2,7 @@
 <html lang="es-ES">
 	<head>
 		<meta charset="UTF-8">
-		<title>4pez</title>
+		<title>página</title>
 		
 		<!--CSS-->
 		<?php require_once('css.php'); ?>
@@ -10,28 +10,44 @@
 		<!--jQuery-->
 		<script src="<?php echo URL; ?>public/js/jquery-1.11.1.min.js"></script>
 		<script src="<?php echo URL; ?>public/js/validaciones.js"></script>
+		<script src="<?php echo URL; ?>public/js/bootstrap.min.js"></script>
 	</head>
 	<body>
-		<header class="encabezado">
+		<nav class="navbar navbar-default navbar-inverse" role="navigation">
+			<div class="container-fluid">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="./index.php">Login dropdown</a>
+				</div>
 
-			<div class="contenedor">
-				<a id="logo" href="./index.php"><img src="<?php echo URL; ?>public/css/img/4pez-logo.png" alt=""></a>
-				
-				<?php if(Session::exist()){  ?>
-					<div class="caja_derecha_header">
-						<div id="bienvenida">
-							<h2>¡Bienvenido!</h2>
-							<p><?php echo Session::getValue('U_NAME'); ?></p>
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="float: right;">
+					<div class="row">
+						<div class="col-xs-12 col-md-12">
+							<div class="contenedor">
+								<?php if(Session::exist()){  ?>
+									<ul class="nav navbar-nav">
+										<li><h4 class="register-align">¡Bienvenido! - <?php echo "&nbsp;".Session::getValue('U_NAME'); ?></h4></li>
+									</ul>
+									<form class="navbar-form navbar-left">
+										<button  class="btn btn-danger btn-block" onclick="location.href='<?php echo URL; ?>User/destroySession';">Cerrar Sesión</button>
+
+									</form>
+								<?php }  ?>
+							</div>
 						</div>
-						<div class="division_header"></div>
-						<div id="caja_sitio">
-							<div class="btn_sitio"><a target='_blank' href="<?php echo URL; ?>User/destroySession"><p>Cerrar Sesión</p></a></div>
-						</div>
+
 					</div>
-				<?php }  ?>
-			</div>
-		</header>
-		
+
+				</div><!-- /.navbar-collapse -->
+			</div><!-- /.container-fluid -->
+		</nav>
 		
 		
 		<?php 

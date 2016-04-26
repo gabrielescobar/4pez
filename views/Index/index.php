@@ -2,7 +2,7 @@
 <html lang="es-ES">
 <head>
 	<meta charset="UTF-8">
-	<title>4pez</title>
+	<title>Página</title>
 
 
 
@@ -39,10 +39,12 @@
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="float: right;">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-xs-12 col-md-12">
 					<ul class="nav navbar-nav">
 						<li><a href="#">Conocenos</a></li>
-
+					</ul>
+					<ul class="nav navbar-nav">
+						<li><a href="#">Planes</a></li>
 					</ul>
 					<form class="navbar-form navbar-left" role="search">
 						<button type="submit" class="btn btn-default">Registrarse</button>
@@ -55,16 +57,16 @@
 								<li>
 
 
-									<form class="form" role="form" method="post" action="login" accept-charset="UTF-8" id="login-nav">
+									<form name='form_logeo' method='post'>
 										<div class="form-group">
-											<input type="email" class="form-control" id="exampleInputEmail2" placeholder="RUT" required>
+											<input name='rut_cliente' class="form-control" 	type="text" 	placeholder='12345678-9' required/>
 										</div>
 										<div class="form-group">
-											<input type="password" class="form-control" id="exampleInputPassword2" placeholder="Contraseña" required>
+											<input name='password_cliente' class="form-control"	type="password" placeholder='xxxxxxxx' required/>
 											<div class="help-block text-right"><a href="">Olvidaste tu contraseña ?</a></div>
 										</div>
 										<div class="form-group" style="width: 100%">
-											<button type="submit" class="btn btn-primary btn-block">Iniciar Sesión</button>
+											<button onclick="logearUsuario()" class="btn btn-primary btn-block">Iniciar Sesión</button>
 										</div>
 									</form>
 								</li>
@@ -110,7 +112,22 @@
 				<img src="<?php echo URL; ?>/public/css/img/tabla-grande.png" alt="">
 			</article>
 		</section>
+
 	</div>
+	<!-- Place this tag where you want the Live Helper Plugin to render. -->
+
+	<!-- Place this tag after the Live Helper Plugin tag. -->
+	<script type="text/javascript">
+		var LHCChatOptions = {};
+		LHCChatOptions.opt = {widget_height:340,widget_width:300,popup_height:520,popup_width:500,domain:'localhost/4pez'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			var referrer = (document.referrer) ? encodeURIComponent(document.referrer.substr(document.referrer.indexOf('://')+1)) : '';
+			var location  = (document.location) ? encodeURIComponent(window.location.href.substring(window.location.protocol.length)) : '';
+			po.src = 'http://localhost/livechat/index.php/esp/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(check_operator_messages)/true/(top)/350/(units)/pixels/(leaveamessage)/true?r='+referrer+'&l='+location;
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
 	<script>
 		$(function(){
 			$('#btn_ver_planes').click(function(e){
